@@ -1,4 +1,4 @@
 trinket-box
 ===========
 
-just stuff
+random stuff. prep for setup.
